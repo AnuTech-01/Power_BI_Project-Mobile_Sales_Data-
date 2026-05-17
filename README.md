@@ -15,3 +15,9 @@ Power BI dashboard for Mobile Sales Analysis
 - Total Transactions: 140
 - Total Quantity: 783
 - Top Brand: Apple
+
+  ### What I learned from this project:
+- How to clean & structure raw data
+- Building interactive slicers & filters
+- Creating meaningful KPIs & visuals
+- Telling a story through data
