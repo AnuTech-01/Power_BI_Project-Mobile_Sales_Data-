@@ -1,16 +1,16 @@
 # Power_BI_Project-Mobile_Sales_Data-
 
-# MobileX Analytics Dashboard
+## MobileX Analytics Dashboard
 
-## 📊 Overview
+### 📊 Overview
 Power BI dashboard for Mobile Sales Analysis
 
-## 🛠 Tools Used
+### 🛠 Tools Used
 - Power BI Desktop
 - Microsoft Excel
 - DAX
 
-## 📈 Key Metrics
+### 📈 Key Metrics
 - Total Sales: 26M
 - Total Transactions: 140
 - Total Quantity: 783
